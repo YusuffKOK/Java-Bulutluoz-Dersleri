@@ -27,14 +27,5 @@ public class C02_Variables {
         int sayi1 = 45, sayi2 = 75 , sayi3 = 84;
         // ama bu genelde tavsiye edilmez
 
-
-
-
-
-
-
-
-
-
     }
 }
