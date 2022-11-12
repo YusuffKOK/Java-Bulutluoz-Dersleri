@@ -1,4 +1,4 @@
-package ders05_Concatenation_Operatörler;
+package ders05_Concatenation_Operatorler;
 
 public class C02_RelationalOperators_Eşitlik {
     public static void main(String[] args) {

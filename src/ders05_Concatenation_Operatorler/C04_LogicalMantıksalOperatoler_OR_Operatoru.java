@@ -1,4 +1,4 @@
-package ders05_Concatenation_Operatörler;
+package ders05_Concatenation_Operatorler;
 
 public class C04_LogicalMantıksalOperatoler_OR_Operatoru {
     public static void main(String[] args) {
