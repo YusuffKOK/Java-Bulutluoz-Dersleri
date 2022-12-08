@@ -10,9 +10,9 @@ public class C06_pascalUcgeni {
             1 4 6 4 1
 
          */
-        for (int i = 0; i <6 ; i++) {
+        for (int i = 0; i <5 ; i++) {
 
-            for (int j = 1; j <6-i ; j++) {
+            for (int j = 1; j <5-i ; j++) {
                 System.out.print(" ");
 
             }
